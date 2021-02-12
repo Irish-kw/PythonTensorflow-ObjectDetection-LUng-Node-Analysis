@@ -19,8 +19,8 @@ train data number : 1051
 
 test data number : 98
 
-Image : mhd -> JPG
-label : mhd -> csv -> train.record and test.record
+Image : mhd/raw -> JPG
+label : mhd/raw -> csv -> train.record and test.record
 
 Model : 
 
